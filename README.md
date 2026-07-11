@@ -105,7 +105,7 @@ pip install -r requirements.txt
 pip install numpy , pandas , scikit-learn , matplotib , seaborn
 jupyter notebook notebook.ipynb
 
----
+```---
 
 ## 📄 License
 
