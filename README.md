@@ -73,10 +73,10 @@ The pipeline uses **TF-IDF** for feature extraction combined with a **K-Nearest 
 
 ## 📊 Results
 
-| Model | Accuracy_Train | Accuracy_Test |
-|-------|----------|-----------|--------|
-| KNN |  | 0.83 | 0.83 |
-
+| Metric | Score |
+|--------|-------|
+| Accuracy_Train  | 0.83 |
+| Accuracy_Test | 0.83 |
 > Fill in your actual evaluation numbers above.
 
 ---
