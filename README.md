@@ -89,7 +89,7 @@ cd News_Type_Predict
 pip install -r requirements.txt
 ```
 
-### Requirements
+## Requirements
 ```
 scikit-learn
 pandas
